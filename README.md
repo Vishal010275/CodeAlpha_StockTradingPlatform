@@ -29,3 +29,31 @@ CodeAlpha_StockTradingPlatform/
 │   └── Transaction.java
 ├── README.md
 └── .gitignore
+## Default Account
+- Username: Vishal
+- Initial Balance: Rs. 10,000
+
+## Available Stocks
+The application provides the following predefined stocks:
+- TCS
+- INFY
+- RELI
+- WIPRO
+
+## Learning Objectives
+This project helps practice:
+- Object-Oriented Programming in Java
+- Classes and Objects
+- Java Collections Framework
+- Buying and Selling Operations
+- Portfolio Management
+- Transaction History Management
+
+## Disclaimer
+This project is an educational simulation. It does not connect to a real stock market or perform actual financial transactions.
+
+## Author
+Vishal Ray
+
+## Internship
+CodeAlpha Java Programming Internship
