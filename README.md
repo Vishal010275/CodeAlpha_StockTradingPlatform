@@ -20,7 +20,7 @@ Stock Trading Platform is a Java-based console application developed as part of 
 - IntelliJ IDEA
 
 ## Project Structure
-```text
+
 CodeAlpha_StockTradingPlatform/
 ├── src/
 │   ├── Main.java
